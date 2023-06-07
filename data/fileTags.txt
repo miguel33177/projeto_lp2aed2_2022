@@ -1,0 +1,3 @@
+Amenity,animal_shelter, arts_centre, bank, bar, brothel, cafe, car_rental, car_wash, casino, cinema, clinic, college,community_centre, courthouse, crematorium, crypt, dentist, dive_centre, driving_school, embassy,fast_food, ferry_terminal, fire_station, food_court, fuel, grave_yard, gym, hospital, internet_cafe,bar, hospital, pub, restaurant, school, university
+Barrier,hedge,kerb,wall,handrail,cable_barrier,fence,rope,swing_gate,stile,lift_gate
+Building,hotel, office, commercial,hospital, industrial, retail, warehouse, cathedral, chapel, church, mosque, temple,synagogue, school, stadium, train_station, transportation, public, shrine, civic, hangar, kiosk

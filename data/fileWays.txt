@@ -1,0 +1,23 @@
+Bruno,Funchal,1,7,true,false,true
+Bruno,Almada,1,16,true,true,false
+Bruno,Vila nova de gaia,2,22,true,false,true
+Bruno,Lousada,19,15,true,false,true
+Bessa,Penafiel,14,16,true,true,true
+Bessa,Lisboa,17,19,true,true,true
+Bessa,Algarve,2,20,false,true,true
+Diogo,Felgueiras,20,16,true,true,false
+Diogo,Irivo,25,26,true,true,false
+Diana,Aliados,7,16,true,true,true
+Bessa,Marques,16,4,false,true,false
+Diogo,Combatentes,4,20,false,true,false
+Nuno,Caide de Rei,20,26,false,true,false
+Miguelito,Salgueiros,16,10,true,true,true
+Bruno,Odivelas,10,5,true,true,false
+Bessa,Santo Ovidio,1,20,false,true,false
+Diana,Sao Bento,18,17,false,false,true
+Diana,Trindade,19,14,false,true,true
+Nuno,Meinedo,14,18,false,true,true
+Bruno,Guimaraes,16,23,false,false,true
+Diana,Aparecida,23,25,false,false,true
+Nuno,Porto,21,22,true,false,false
+Nuno,Açores,22,15,true,false,true

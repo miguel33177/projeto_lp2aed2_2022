@@ -1,0 +1,13 @@
+Bessa,admin
+Bruno,admin
+Diana,admin
+Diogo,admin
+Joao,admin
+Miguel,admin
+Miguelito,admin
+Nuno,admin
+Anselmo,basic
+Catarina,basic
+Jacinta,basic
+Maria,basic
+Tiago,basic
